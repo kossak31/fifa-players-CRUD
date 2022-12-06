@@ -1,6 +1,6 @@
 ﻿namespace FifaPlayers
 {
-    partial class FrmInsert
+    partial class FrmInsertPlayer
     {
         /// <summary>
         ///  Required designer variable.

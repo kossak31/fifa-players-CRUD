@@ -2,9 +2,9 @@ using MySqlConnector;
 
 namespace FifaPlayers
 {
-    public partial class FrmInsert : Form
+    public partial class FrmInsertPlayer : Form
     {
-        public FrmInsert()
+        public FrmInsertPlayer()
         {
             InitializeComponent();
         }
